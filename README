@@ -1,0 +1,12 @@
+Example of usage
+----------------
+
+Simple example for reading in C program using Easpeak library
+
+make example_speak
+
+./example_speak
+
+
+(c) 2011 Jufino
+
